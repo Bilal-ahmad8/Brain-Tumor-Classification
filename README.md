@@ -37,7 +37,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow opencv-pytho
 
 ## Data
 
-The dataset used in this project consists of MRI scans of brain tumors. You can download the dataset from [dataset source link if available](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) and place it in the appropriate directory. Ensure that the images are organized according to their respective categories.
+The dataset used in this project consists of MRI scans of brain tumors. You can download the dataset from [dataset source link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) and place it in the appropriate directory. Ensure that the images are organized according to their respective categories.
 
 ## Notebook Structure
 
